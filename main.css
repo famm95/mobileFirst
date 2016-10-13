@@ -1,3 +1,5 @@
-img {
+.main li {
+display:inline;
+list-style-type:none;
 
 }
